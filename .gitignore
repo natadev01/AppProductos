@@ -1,0 +1,6 @@
+# Archivos de compilación y cache
+dist/
+build/
+
+# Node.js
+node_modules/
